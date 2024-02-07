@@ -7,7 +7,7 @@ double intToDouble(const int& i) {
 
 int main()
 {
-    std::cout << "welcome to my test!" << std::endl;
+    std::cout << "welcome to my test!!" << std::endl;
     int i = 5;
     double d = intToDouble(i);
     std::cout << "the size of d is: " << sizeof(d) << std::endl;
